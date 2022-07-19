@@ -1,0 +1,6 @@
+create table burgerproject.product(
+	pno int primary key auto_increment,
+    pname varchar(20),
+    pprice varchar(20),
+    pcount varchar(10)
+);
